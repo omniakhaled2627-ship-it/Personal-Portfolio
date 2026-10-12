@@ -1,0 +1,210 @@
+.header {
+  background-color: rgb(146, 101, 37);
+  color: rgb(229, 233, 236);
+  border-radius: 20%;
+  width: 85%;
+  height: 40%;
+  text-align: center;
+  margin: auto;
+}
+h1 {
+  color: rgb(192, 185, 159);
+}
+.header h2 {
+  color: rgb(94, 56, 9);
+}
+button {
+  border-radius: 25%;
+  padding-top: 1%;
+  margin-top: 5%;
+}
+
+.header a button {
+  background-color: rgb(159, 111, 40);
+  color: rgb(228, 209, 166);
+  border-radius: 10%;
+  border: 2px dotted rgb(215, 189, 160);
+}
+.about.me {
+  background-color: rgb(192, 185, 159);
+  color: rgb(154, 95, 47);
+  border-radius: 1%;
+  width: 85%;
+  margin: auto;
+  height: 380px;
+}
+div#ae h2 {
+  margin-left: 3%;
+}
+#ae img {
+  width: 20%;
+  border-radius: 50%;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+#ae p {
+  margin-left: 30%;
+  margin-right: 5%;
+  position: relative;
+  top: -100px;
+}
+#ae a button {
+  border: 4px double rgb(154, 95, 47);
+  position: relative;
+  top: -120px;
+  right: -100px;
+  color: sienna;
+}
+.about.me a {
+  margin-left: 20%;
+  color: burlywood;
+}
+.skills {
+  background-color: rgb(192, 185, 159);
+  width: 85%;
+  height: 65%;
+  margin-left: 20%;
+  margin: auto;
+  border-radius: 2%;
+}
+.skills div:not(.clear-fix) {
+  float: left;
+  background-color: rgb(222, 213, 205);
+  margin-left: 2%;
+  border-radius: 5%;
+  height: 50%;
+  width: 21%;
+}
+.skills h2 {
+  margin-left: 5%;
+  color: rgb(154, 95, 47);
+}
+h3 {
+  color: rgb(122, 81, 31);
+  padding-left: 5%;
+}
+.skills p.p {
+  margin-left: -1%;
+  color: rgb(154, 95, 47);
+}
+.skills p {
+  padding-left: 5%;
+  color: rgb(175, 115, 42);
+}
+.clear-fix {
+  clear: both;
+}
+.experince.timeline {
+  background-color: rgb(192, 185, 159);
+  color: rgb(154, 95, 47);
+  border-radius: 1%;
+  width: 85%;
+  margin: auto;
+  margin-bottom: 3%;
+  padding-bottom: 1%;
+}
+
+.experince.timeline div {
+  margin-left: 5%;
+}
+#et h2 {
+  margin-left: 3%;
+  color: rgb(154, 95, 47);
+}
+#et div {
+  background-color: rgb(222, 213, 205);
+  color: rgb(231, 202, 166);
+  height: 240px;
+  box-sizing: border-box;
+}
+.we img {
+  border-radius: 50%;
+  width: 15%;
+  margin-left: 10%;
+  margin-top: 3%;
+}
+div.we {
+  border-radius: 9%;
+  width: 90%;
+  border-left: 6px solid rgb(78, 41, 11);
+  padding-bottom: 5%;
+  height: -40%;
+}
+.we p {
+  text-align: top;
+  position: relative;
+  top: -90px;
+  margin-right: 10%;
+  margin-left: 40%;
+  color: rgb(175, 115, 42);
+}
+#et div.training {
+  border-radius: 9%;
+  width: 90%;
+  border-left: 6px solid rgb(74, 62, 52);
+}
+h2.Eu {
+  margin-left: 5%;
+}
+.training img {
+  width: 15%;
+  border-radius: 50%;
+  margin-left: 10%;
+}
+#et .training p {
+  text-align: top;
+  position: relative;
+  top: -90px;
+  margin-right: 10%;
+  margin-left: 40%;
+  color: rgb(175, 115, 42);
+  padding-bottom: 10%;
+}
+.contact.me {
+  background-color: rgb(35, 111, 141);
+  border-radius: 2%;
+  width: 85%;
+  margin: auto;
+  margin-bottom: 8%;
+  margin-top: -1%;
+}
+#ct h1 {
+  margin-left: 3%;
+}
+.contact.me p {
+  color: rgb(216, 217, 199);
+  margin-left: 2%;
+}
+.contact.me a button {
+  background-color: rgba(8, 33, 56, 0.9);
+  color: rgb(135, 138, 78);
+  margin-left: 15px;
+  border-color: rgb(21, 23, 28);
+  margin-bottom: 11px;
+  border-radius: 41%;
+  border: 2px double whitesmoke;
+  padding-bottom: 0.8%;
+}
+#ct a.email button {
+  padding-bottom: 0.5%;
+  border-radius: 10px;
+}
+div.rights {
+  height: 40%;
+}
+div.rights p {
+  background-color: rgb(170, 145, 115);
+  width: 85.5%;
+  height: 10%;
+  margin: auto;
+  border-radius: 10%;
+  margin-bottom: 7%;
+  margin-top: -6%;
+  font-size: large;
+  text-align: center;
+  padding-top: 85px;
+  padding-bottom: 2%;
+}
+span {
+  color: rgb(112, 103, 62);
+}
